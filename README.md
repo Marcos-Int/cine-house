@@ -1,3 +1,3 @@
-## Criacão de projeto de cinema para estudo de programação
+# Criacão de projeto de cinema para estudo de programação
 
-# Primeiro projeto em grupo 
+## Primeiro projeto em grupo 
